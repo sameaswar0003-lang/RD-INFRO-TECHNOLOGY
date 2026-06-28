@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.read_csv("titanic.csv")
 
-print("First 5 rows:")
+print("First 5 Rows:")
 print(df.head())
 
 print("\nDataset Information:")
